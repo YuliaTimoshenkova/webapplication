@@ -1,25 +1,19 @@
 <!DOCTYPE html>
-
+<html>
 <head>
-    <meta charset="utf-8" />
-    <title>Привет!</title>
+    <meta charset="utf-8">
+    <title>UniTask #1</title>
     <script type="text/javascript">
-        function Msg() {
-            alert("hello");
+        function getName() {
+            name = document.forms["task"].elements["name"].value;
+            alert('Hello, ' + name + '!');
         }
     </script>
 </head>
 <body>
-    
-
-    <header>
-        <h1 align="center">Hello!</h1>
-    </header>
-    <form>
-        <p><input type="button" value=" click me " onclick="Msg()"></p>
-        <input id="Text1" type="text" /><input id="Button1" type="button" value="button" onclick="Msg()" />
-
+    <form id="task" name="task">
+        Your name: <input type="text" id="name" name="name" />
+        <input type="button" value="Сlick Me" onclick="getName();" />
     </form>
-
 </body>
 </html>
