@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "HTML5";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML 5</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/HTML5.css"/>
+    <script>
+        function showPosition() {
+            var x = document.getElementById("geo");
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function (p) {
+                    x.innerHTML = "Latitude:" + p.coords.latitude + "<br>Longitude:" + p.coords.longitude;
+                }, function (err) { alter(err.message); });
+            } else { x.innerHTML = "No GEO"; }
+        }
+    </script>
+</head>
+
+<body>
+    <header>
+        <h1>Медиа центр</h1>
+        <span id="geo"></span>
+    </header>
+    
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Главная", "Index", "Home")</li>
+                <li>@Html.ActionLink("Форум", "About", "Home")</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                <li>@Html.ActionLink("Новости", "Contact", "Home")</li>
+            </ul>
+        </div>
+  
+    <section>
+        <article><h2>Первый человек в космосе!</h2>
+            <img src="~/Image/1.jpg" />
+        </article>
+<nav> 12 апреля 1961 года навсегда останется в памяти человечества. В этот день впервые в мире был совершен полет человека в космос.</nav>
+<aside>Эта новость опубликована <time datetime="2015-04-07">7 апреля 2015 года</time></aside>
+</section>
+    <input type="button" value="Search Me" onclick="showPosition()" />
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
