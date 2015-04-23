@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML 5</title>
+			<meta http-equiv="Content-Type"
+				  content="text/html; charset=utf-8"/>
+			<link rel="stylesheet" type="text/css" href="css/general.css"/>
+			<link rel="stylesheet" type="text/css" href="css/navbar.css"/>
+	</head>
+	<body>
+		<header>
+			<h1>Разработка WEB-приложений</h1>
+		</header>
+		<nav>
+			<ul class="navbar">
+				<li class="current"><a href="home.html">Новости</a></li>
+				<li><a href="contact.html">Контакты</a></li>
+			</ul>
+		</nav>
+		<section>
+				<article>
+					<div class="row">
+                        <div class="col-md-4">
+                            <h2>Домашнее задание №1</h2>
+                            <p>История создания браузера Google Chrome и основные характеристики</p>
+                            <p><a class="btn btn-default" href="https://github.com/YuliaTimoshenkova/webapplication/tree/master/chrome">View on GitHub &raquo;</a></p>
+                        </div>
+                        <div class="col-md-4">
+                            <h2>Домашнее задание №2</h2>
+                            <p>HTML страница с кнопкой</p>
+                            <p><a class="btn btn-default" href="https://github.com/YuliaTimoshenkova/webapplication/blob/master/кнопка.html">View on GitHub &raquo;</a></p>
+                        </div>
+                        <div class="col-md-4">
+                            <h2>Домашнее задание №3</h2>
+                            <p>Проект ASP.Net + страница с кнопкой</p>
+                            <p><a class="btn btn-default" href="https://github.com/YuliaTimoshenkova/webapplication/tree/master/ASP.NET%20с%20кнопкой">View on GitHub &raquo;</a></p>
+                        </div>
+                    </div>
+				</article>
+			</section>
+	    
+	    <aside>Эта новость опубликована<br /> <time datetime="2015-04-22">22 апреля 2015 года</time></aside>
+        <div>
+            <footer>
+                <p>Copyright &copy;<a href="https://github.com/YuliaTimoshenkova"> View on GitHub &raquo;</a></p>
+            </footer>
+        </div>
+  
+	    <div id="wrapper">
+	        <div id="sidebar">
+	            Домашние работы выполнены студенткой РИ-320401<a href="https://github.com/YuliaTimoshenkova"> Тимошенковой Юлией &raquo;</a>
+	        </div>
+	        <div id="main">
+	            <p>статический сайдбар справа чтобы посмотреть как это работает</p>  
+	        </div>
+	    </div>
+        
+       
+        <script>
+            $(document).ready(function () {
+                $('#sidebar').stickyMojo({ footerID: '#footer', contentID: '#main' });
+            });
+        </script> 
+        
+	</body>
+</html>
