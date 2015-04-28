@@ -2,16 +2,19 @@
 	margin: 70px auto 10px;
 	text-align: center;
     color: #2C3C2C;
+	behavior: url(ie-css3.htc);
 }
 
 body	{
 	background-color: #ecebe8;
+	behavior: url(ie-css3.htc);
 }
 
 article	{
 	margin-left: 10px;
     color: black;
 	margin: 15px;
+	behavior: url(ie-css3.htc);
 }
 
 main_container	{
@@ -20,6 +23,7 @@ main_container	{
 	background: #ffffff;
 	border-radius: 10px;
 	border: 3px solid #e5e5e5;
+	behavior: url(ie-css3.htc);
 }
 
 section	{
@@ -28,6 +32,7 @@ section	{
 	background: #ffffff;
 	border-radius: 10px;
 	border: 1px solid #e5e5e5;
+	behavior: url(ie-css3.htc);
 }
 
 
@@ -36,6 +41,7 @@ section h2	{
     text-align: center;
 	width: 80%;
 	margin: 10px auto;
+	behavior: url(ie-css3.htc);
 }
 
 aside	{
@@ -48,6 +54,7 @@ aside	{
 	width: 15%;
 	text-align: center;
 	border-radius: 10px;
+	behavior: url(ie-css3.htc);
 	border: 3px solid palevioletred;
 }
 
@@ -63,11 +70,13 @@ footer 	{
 	position: relative;
 	width: auto; 
 	height: 600px
+	behavior: url(ie-css3.htc);
 }
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   padding: 0;
   border: 0;
+  behavior: url(ie-css3.htc);
 }
 
 
@@ -6561,114 +6570,141 @@ td.hidden-md {
 @media (min-width: 1200px) {
   .hidden-md.hidden-lg {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   tr.hidden-md.hidden-lg {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   th.hidden-md.hidden-lg,
   td.hidden-md.hidden-lg {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
 }
 
 .hidden-lg {
   display: block !important;
+  behavior: url(ie-css3.htc);
 }
 
 tr.hidden-lg {
   display: table-row !important;
+  behavior: url(ie-css3.htc);
 }
 
 th.hidden-lg,
 td.hidden-lg {
   display: table-cell !important;
+  behavior: url(ie-css3.htc);
 }
 
 @media (max-width: 767px) {
   .hidden-lg.hidden-xs {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   tr.hidden-lg.hidden-xs {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   th.hidden-lg.hidden-xs,
   td.hidden-lg.hidden-xs {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   .hidden-lg.hidden-sm {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   tr.hidden-lg.hidden-sm {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   th.hidden-lg.hidden-sm,
   td.hidden-lg.hidden-sm {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .hidden-lg.hidden-md {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   tr.hidden-lg.hidden-md {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   th.hidden-lg.hidden-md,
   td.hidden-lg.hidden-md {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
 }
 
 @media (min-width: 1200px) {
   .hidden-lg {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   tr.hidden-lg {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   th.hidden-lg,
   td.hidden-lg {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
 }
 
 .visible-print {
   display: none !important;
-}
+
+  behavior: url(ie-css3.htc);}
 
 tr.visible-print {
   display: none !important;
+  behavior: url(ie-css3.htc);
 }
 
 th.visible-print,
 td.visible-print {
   display: none !important;
+  behavior: url(ie-css3.htc);
 }
 
 @media print {
   .visible-print {
     display: block !important;
+	behavior: url(ie-css3.htc);
   }
   tr.visible-print {
     display: table-row !important;
+	behavior: url(ie-css3.htc);
   }
   th.visible-print,
   td.visible-print {
     display: table-cell !important;
+	behavior: url(ie-css3.htc);
   }
   .hidden-print {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   tr.hidden-print {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
   th.hidden-print,
   td.hidden-print {
     display: none !important;
+	behavior: url(ie-css3.htc);
   }
 }
 body{
@@ -6676,11 +6712,13 @@ body{
     padding:0;
     background:#f2f2f2;
     color:#777;
+	behavior: url(ie-css3.htc);
 }
 #header {
     margin: 75px 0 50px 140px;
     text-align: center;
     text-transform: uppercase;
+	behavior: url(ie-css3.htc);
 }
 #main {
     width:300px;
@@ -6693,6 +6731,7 @@ body{
     position:relative;
     z-index:1;
     margin-bottom:40px;
+	behavior: url(ie-css3.htc);
 }
 #sidebar {
     width: 118px;
@@ -6705,9 +6744,22 @@ body{
     margin: 30px 0 15px 0; /* управляем отступами сверху и снизу */
     padding: 15px 10px;
     float: left; /* float right для расположени ясайдбара справа */
+	behavior: url(ie-css3.htc);
 }
 #wrapper {
     width:418px; /* ДОЛЖЕН ИМЕТЬ ШИРИНУ = ширина #sidebar + ширина #main */
     margin-left: auto;
     margin-right: auto;
+	behavior: url(ie-css3.htc);
+}
+.box {
+    -moz-border-radius: 15px; /* Firefox */
+    -webkit-border-radius: 15px; /* Safari and Chrome */
+    border-radius: 15px; /* Opera 10.5+, future browsers, and now also Internet Explorer 6+ using IE-CSS3 */
+ 
+    -moz-box-shadow: 10px 10px 20px #000; /* Firefox */
+    -webkit-box-shadow: 10px 10px 20px #000; /* Safari and Chrome */
+    box-shadow: 10px 10px 20px #000; /* Opera 10.5+, future browsers and IE6+ using IE-CSS3 */
+ 
+    behavior: url(ie-css3.htc); /* This lets IE know to call the script on all elements which get the 'box' class */
 }
