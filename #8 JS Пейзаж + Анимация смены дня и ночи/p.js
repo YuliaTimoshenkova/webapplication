@@ -107,6 +107,13 @@ function initiate() {
     ctx.stroke();
 
     setTimeout("initiate()", 20);
+	if (lune_y == 350)
+    {
+        arcPos_y =10;
+        arcPos_x = 10;
+        lune_x = 10;
+        lune_y = 10;
+    }
 }
 
 addEventListener("load", initiate);
