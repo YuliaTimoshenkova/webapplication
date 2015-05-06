@@ -1,0 +1,7 @@
+{
+    success: true,
+    products: [
+        {id: 1, name: 'Ботинки',    price: 10, quantity:78, size: '15', totalCost: price*quantity },
+        {id: 2, name: 'Сапоги', price: 200, quantity:25, size '99',totalCost: price*quantity }
+    ]
+}
