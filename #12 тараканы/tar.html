@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="tar.js"></script>
+    <title>HTML 5 Canvas - Rectangles</title>
+</head>
+<body>
+
+    <img id="bug" src="bug.jpg" />  Тараканы
+
+    <section id="CanvasSection">
+        <canvas id="map" width="750" height="405" style="border:1px solid #999999"></canvas>
+    </section>
+    <section id="CanvasSection">
+        <canvas id="map1" width="750" height="60" style="border:1px solid #999999"></canvas>
+    </section>
+    <div style="float: left; width: 100%">
+        <div style="float: left; width: 20%">
+            <h2>Первый игрок</h2>
+            <form id="task1" name="task">
+                <input id="Radio1" name="group1" type="radio" value="1" /> 1 таракан<br>
+                <input id="Radio12" name="group1" type="radio" value="2" /> 2 таракан<br>
+                <input id="Radio13" name="group1" type="radio" value="3" /> 3 таракан<br>
+                <input id="Radio14" name="group1" type="radio" value="4" /> 4 таракан<br>
+                Ставка: <input type="text" id="b1" name="b1" /><br>
+                <input type="button" value="сделать ставку" onclick="get1();" />
+            </form>
+        </div>
+        <div style="float: left; width: 20%">
+            <h2>Второй игрок</h2>
+            <form id="task2" name="task">
+                <input id="Radio21" name="group2" type="radio" value="1" /> 1 таракан<br>
+                <input id="Radio22" name="group2" type="radio" value="2" /> 2 таракан<br>
+                <input id="Radio23" name="group2" type="radio" value="3" /> 3 таракан<br>
+                <input id="Radio24" name="group2" type="radio" value="4" /> 4 таракан<br>
+                Ставка: <input type="text" id="b2" name="b2" /><br>
+                <input type="button" value="сделать ставку" onclick="get2();" />
+            </form>
+        </div>
+        <div style="float: left; width: 20%">
+            <h2>Третий игрок</h2>
+            <form id="task3" name="task">
+                <input id="Radio31" name="group3" type="radio" value="1" /> 1 таракан<br>
+                <input id="Radio32" name="group3" type="radio" value="2" /> 2 таракан<br>
+                <input id="Radio33" name="group3" type="radio" value="3" /> 3 таракан<br>
+                <input id="Radio34" name="group3" type="radio" value="4" /> 4 таракан<br>
+                Ставка: <input type="text" id="b3" name="b3" /><br>
+                <input type="button" value="сделать ставку" onclick="get3();" />
+            </form>
+        </div>
+        <div style="float: left; width: 20%">
+            <h2>Четвертый игрок</h2>
+            <form id="task4" name="task">
+                <input id="Radio41" name="group4" type="radio" value="1" /> 1 таракан<br>
+                <input id="Radio42" name="group4" type="radio" value="2" /> 2 таракан<br>
+                <input id="Radio43" name="group4" type="radio" value="3" /> 3 таракан<br>
+                <input id="Radio44" name="group4" type="radio" value="4" /> 4 таракан<br>
+                Ставка: <input type="text" id="b4" name="b4" /><br>
+                <input type="button" value="сделать ставку" onclick="get4();" />
+            </form>
+        </div>
+        <div style="float: left; width: 20%">
+            <h2>УПРАВЛЕНИЕ</h2>
+            <form id="task5" name="but">
+                <input type="button" value="БАНК" onclick="bank();" /><br>
+                <input type="button" value="ИГРАЕМ!" onclick="play();" /><br>
+                <input type="button" value="Результаты" onclick="result();" /><br>
+                <input type="button" value="Отправить результаты" onclick="post();" /><br>
+            </form>
+        </div>
+        
+    </div>
+    <section id="CanvasSection">
+        <canvas id="map2" width="400" height="300" style="border:1px solid #999999"></canvas>
+    </section>
+</body>
+</html>
