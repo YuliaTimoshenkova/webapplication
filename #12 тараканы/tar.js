@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function getRandomArbitary(min, max) {
     var rand = min + Math.random() * (max - min)
     rand = Math.round(rand);
@@ -425,3 +426,6 @@ function result() {
     document.getElementById("bank").value = banks - vp1 - vp2 - vp3;
 }
      
+=======
+
+>>>>>>> 5578f174e400b3da8764184ddf3a97aeac068f0a
