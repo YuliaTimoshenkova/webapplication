@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function getRandomArbitary(min, max) {
     var rand = min + Math.random() * (max - min)
     rand = Math.round(rand);
@@ -181,7 +181,7 @@ function play() {
 
 
 }
-//ñòàâêà
+//Ã±Ã²Ã Ã¢ÃªÃ 
 var c1 = 0;
 var c2 = 0;
 var c3 = 0;
@@ -199,12 +199,12 @@ b31 = 0;
 b32 = 0;
 b33 = 0;
 b34 = 0;
-//áàíê òàðàêàíîâ
+//Ã¡Ã Ã­Ãª Ã²Ã Ã°Ã ÃªÃ Ã­Ã®Ã¢
 tr1 = 0;
 tr2 = 0;
 tr3 = 0;
 tr4 = 0;
-//âûáîðêà
+//Ã¢Ã»Ã¡Ã®Ã°ÃªÃ 
 n11 = 0;
 n12 = 0;
 n13 = 0;
