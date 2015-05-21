@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -12,7 +12,7 @@
                 method: 'POST',
                 params: {
                     data: Ext.encode({
-                        user: 'user1',
+                        user: document.getElementById("user1").value,
                         money: document.getElementById("pvin1").value,
                     })
 
@@ -29,7 +29,7 @@
                 method: 'POST',
                 params: {
                     data: Ext.encode({
-                        user: 'user2',
+                        user: document.getElementById("user2").value,
                         money: document.getElementById("pvin2").value,
                     })
 
@@ -45,7 +45,7 @@
                 method: 'POST',
                 params: {
                     data: Ext.encode({
-                        user: 'user3',
+                        user: document.getElementById("user3").value,
                         money: document.getElementById("pvin3").value,
                     })
 
@@ -95,7 +95,7 @@
     </section>
     <div style="float: left; width: 100%">
         <div style="float: left; width: 20%">
-            <h2>Первый игрок</h2>
+            <h2>Первый игрок</h2>введите имя:<input type="text" id="user1" name="user1" />
             <form id="task1" name="task">
                 <input id="checkbox11" name="group1" type="checkbox" value="1" />1 таракан cтавка: <input type="text" id="b11" name="b11" /><br>
                 <input id="checkbox12" name="group1" type="checkbox" value="2" />2 таракан  cтавка: <input type="text" id="b12" name="b12" /><br>
@@ -105,7 +105,7 @@
             </form>
         </div>
         <div style="float: left; width: 20%">
-            <h2>Второй игрок</h2>
+            <h2>Второй игрок</h2>введите имя:<input type="text" id="user2" name="user2" />
             <form id="task2" name="task">
                 <input id="checkbox21" name="group2" type="checkbox" value="1" />1 таракан cтавка: <input type="text" id="b21" name="b21" /><br>
                 <input id="checkbox22" name="group2" type="checkbox" value="2" />2 таракан  cтавка: <input type="text" id="b22" name="b22" /><br>
@@ -115,7 +115,7 @@
             </form>
         </div>
         <div style="float: left; width: 20%">
-            <h2>Третий игрок</h2>
+            <h2>Третий игрок</h2>введите имя:<input type="text" id="user3" name="user3" />
             <form id="task3" name="task">
                 <input id="checkbox31" name="group3" type="checkbox" value="1" />1 таракан cтавка: <input type="text" id="b31" name="b31" /><br>
                 <input id="checkbox32" name="group3" type="checkbox" value="2" />2 таракан  cтавка: <input type="text" id="b32" name="b32" /><br>
