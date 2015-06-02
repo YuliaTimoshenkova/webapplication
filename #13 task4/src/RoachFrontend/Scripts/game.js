@@ -230,7 +230,7 @@ function get1() {
     if (document.getElementById("checkbox11").checked) {
         n11 = 1;
         b11 = document.forms["task1"].elements["b11"].value - 0;
-        ctx.fillText('player 1 - bug  ' + n11 + '  stavka = ' + b11, x1, y1);
+        ctx.fillText(document.getElementById("user1").value + ' - bug  ' + n11 + '  stavka = ' + b11, x1, y1);
         y1 = y1 + 10;
         p1 = p1 + 1;
         c1++;
@@ -239,7 +239,7 @@ function get1() {
         n12 = 1;
 
         b12 = document.forms["task1"].elements["b12"].value - 0;
-        ctx.fillText('player 1  - bug ' + n12 + ' stavka = ' + b12, x1, y1);
+        ctx.fillText(document.getElementById("user1").value + '- bug ' + n12 + ' stavka = ' + b12, x1, y1);
         y1 = y1 + 10;
         p1 = p1 + 1;
         c2++;
@@ -248,7 +248,7 @@ function get1() {
         n13 = 1;
 
         b13 = document.forms["task1"].elements["b13"].value - 0;
-        ctx.fillText('player 1 - bug ' + n13 + '  stavka = ' + b13, x1, y1);
+        ctx.fillText(document.getElementById("user1").value + ' - bug ' + n13 + '  stavka = ' + b13, x1, y1);
         y1 = y1 + 10;
         p1 = p1 + 1;
         c3++;
@@ -258,7 +258,7 @@ function get1() {
         n14 = 1;
         p1 = p1 + 1;
         b14 = document.forms["task1"].elements["b14"].value - 0;
-        ctx.fillText('player 1  bug  ' + n14 + '  stavka = ' + b14, x1, y1);
+        ctx.fillText(document.getElementById("user1").value + '  bug  ' + n14 + '  stavka = ' + b14, x1, y1);
         c4++;
 
     }
@@ -273,7 +273,7 @@ function get2() {
     if (document.getElementById("checkbox21").checked) {
         n21 = 1;
         b21 = document.forms["task2"].elements["b21"].value - 0;
-        ctx.fillText('player 2  -  bug  ' + n21 + '   stavka = ' + b21, x2, y2);
+        ctx.fillText(document.getElementById("user2").value + ' -  bug  ' + n21 + '   stavka = ' + b21, x2, y2);
         y2 = y2 + 10;
         p2 = p2 + 1;
         c1++;
@@ -281,7 +281,7 @@ function get2() {
     if (document.getElementById("checkbox22").checked) {
         n22 = 1;
         b22 = document.forms["task2"].elements["b22"].value - 0;
-        ctx.fillText('player 2  - bug  ' + n22 + '  stavka = ' + b22, x2, y2);
+        ctx.fillText(document.getElementById("user2").value + '  - bug  ' + n22 + '  stavka = ' + b22, x2, y2);
         y2 = y2 + 10;
         p2 = p2 + 1;
         c2++;
@@ -289,7 +289,7 @@ function get2() {
     if (document.getElementById("checkbox23").checked) {
         n23 = 1;
         b23 = document.forms["task2"].elements["b23"].value - 0;
-        ctx.fillText('player 2 - bug   ' + n23 + ' stavka = ' + b23, x2, y2);
+        ctx.fillText(document.getElementById("user2").value + ' - bug   ' + n23 + ' stavka = ' + b23, x2, y2);
         y2 = y2 + 10;
         p2 = p2 + 1;
         c3++;
@@ -298,7 +298,7 @@ function get2() {
     if (document.getElementById("checkbox24").checked) {
         n24 = 1;
         b24 = document.forms["task2"].elements["b24"].value - 0;
-        ctx.fillText('player 2 - bug  ' + n24 + ' stavka = ' + b24, x2, y2);
+        ctx.fillText(document.getElementById("user2").value + ' - bug  ' + n24 + ' stavka = ' + b24, x2, y2);
         p2 = p2 + 1;
         c4++;
 
@@ -314,7 +314,7 @@ function get3() {
     if (document.getElementById("checkbox31").checked) {
         n31 = 1;
         b31 = document.forms["task3"].elements["b31"].value - 0;
-        ctx.fillText('player 3 - bug ' + n31 + ' stavka = ' + b31, x3, y3);
+        ctx.fillText(document.getElementById("user3").value + ' - bug ' + n31 + ' stavka = ' + b31, x3, y3);
         y3 = y3 + 10;
         p3 = p3 + 1;
         c1++;
@@ -322,7 +322,7 @@ function get3() {
     if (document.getElementById("checkbox32").checked) {
         n32 = 1;
         b32 = document.forms["task3"].elements["b32"].value - 0;
-        ctx.fillText('player 3 - bug ' + n32 + ' stavka = ' + b32, x3, y3);
+        ctx.fillText(document.getElementById("user3").value + ' - bug ' + n32 + ' stavka = ' + b32, x3, y3);
         y3 = y3 + 10;
         p3 = p3 + 1;
         c2++;
@@ -330,16 +330,18 @@ function get3() {
     if (document.getElementById("checkbox33").checked) {
         n33 = 1;
         b33 = document.forms["task3"].elements["b33"].value - 0;
-        ctx.fillText('player 3 - bug  ' + n33 + ' stavka = ' + b33, x3, y3);
+
+        ctx.fillText(document.getElementById("user3").value + ' - bug  ' + n33 + ' stavka = ' + b33, x3, y3);
         y3 = y3 + 10;
         p3 = p3 + 1;
         c3++;
 
     }
     if (document.getElementById("checkbox34").checked) {
+        user3 = document.getElementById("user3").value;
         n34 = 1;
         b34 = document.forms["task3"].elements["b34"].value - 0;
-        ctx.fillText('player 3  bug   ' + n34 + ' stavka = ' + b34, x3, y3);
+        ctx.fillText(user3+ '  bug   ' + n34 + ' stavka = ' + b34, x3, y3);
         p3 = p3 + 1;
         c4++;
     }
