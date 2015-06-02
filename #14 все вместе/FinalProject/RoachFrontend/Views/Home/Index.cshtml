@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type"
+          content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="/Content/general.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/navbar.css" />
+    <script language="javascript" src="~/Scripts/game.js"></script>
+    <script type="text/javascript" src="~/Scripts/ext-all-debug.js"></script>
+    <script type="text/javascript">
+        function SubmitStats() {
+            Ext.Ajax.request({
+                url: '/Home/SaveStats',
+                method: 'POST',
+                params: {
+                    data: Ext.encode({
+                        user: document.getElementById("user1").value,
+                        money: document.getElementById("pvin1").value,
+                    })
+
+                },
+
+                success: function (response) {
+                    var text = response.responseText;
+                                  // process server response here
+                }
+            });
+           
+        }
+    </script>
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        li {
+            float: left;
+        }
+
+        a {
+            display: block;
+        }
+    </style>
+
+    <title>Игровой портал</title>
+</head>
+<body>
+    <header>Тарканьи бега</header>
+    <nav>
+        <ul class="navbar">
+            <li class="current">
+                <a href="~/Home/General">Главная</a>
+            </li>
+            <li><a href="~/Home/Chrome">Про Хром</a></li>
+            <li><a href="~/Home/Contact">Карта</a></li>
+            <li><a href="~/Home/p">Анимация</a></li>
+            <li><a href="~/Home/Tar">task 3</a></li>
+            <li><a href="/Home/Index">Тараканы полная</a></li>
+            <li><a href="/Home/Manage">Управление</a></li>
+        </ul>
+    </nav>
+    <img id="bug" src="~/bug.jpg" />  POSITION
+
+    <section id="CanvasSection">
+        <canvas id="map" width="750" height="405" style="border:1px solid black"></canvas>
+    </section>
+    <section id="CanvasSection">
+        <canvas id="map1" width="750" height="60" style="border:5px solid red"></canvas>
+    </section>
+    <div style="float: left; width: 100%">
+        <div style="float: left; width: 20%">
+            <h2>Первый игрок</h2>введите имя:<input type="text" id="user1" name="user1" />
+            <form id="task1" name="task">
+                <input id="checkbox11" name="group1" type="checkbox" value="1" />1 таракан cтавка: <input type="text" id="b11" name="b11" /><br>
+                <input id="checkbox12" name="group1" type="checkbox" value="2" />2 таракан  cтавка: <input type="text" id="b12" name="b12" /><br>
+                <input id="checkbox13" name="group1" type="checkbox" value="3" />3 таракан  cтавка: <input type="text" id="b13" name="b13" /><br>
+                <input id="checkbox14" name="group1" type="checkbox" value="4" />4 таракан  cтавка: <input type="text" id="b14" name="b14" /><br>
+                <input type="button" value="сделать ставку" onclick="get1();" />
+            </form>
+        </div>
+        
+      
+        <div style="float: left; width: 20%">
+            <h2>УПРАВЛЕНИЕ</h2>
+            <form id="task5" name="but">
+                Банк: <input type="text" id="bank" name="bank" /><br>
+                <input type="button" value="ИГРАЕМ!" onclick="game();" /><br>
+                <input type="button" value="Результаты" onclick="result();" /><br>
+                <input type="button" id="btnSubmitStat" onclick="SubmitStats()" value="Сохранить результаты!"/><br>
+                            </form>
+        </div>
+        <div style="float: left; width: 20%">
+            <h2>Выйгрыш</h2>
+            <form id="task5" name="but">
+               <input type="text" id="pvin1" name="pvin1"><br>
+                
+            </form>
+        </div>
+
+    </div>
+
+</body>
+</html>
+
+
+

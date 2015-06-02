@@ -1,0 +1,146 @@
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\RoachFrontend.dll.config
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\RoachFrontend.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\RoachFrontend.pdb
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\Newtonsoft.Json.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.Helpers.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.Mvc.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.Razor.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.WebPages.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.WebPages.Razor.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\Newtonsoft.Json.xml
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.Helpers.xml
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.Mvc.xml
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.Razor.xml
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.WebPages.xml
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\bin\System.Web.WebPages.Razor.xml
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\obj\Debug\RoachFrontend.csprojResolveAssemblyReference.cache
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\obj\Debug\RoachFrontend.dll
+C:\Users\julia_000\Desktop\task4\src\RoachFrontend\obj\Debug\RoachFrontend.pdb
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\RoachFrontend.dll.config
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\RoachFrontend.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\RoachFrontend.pdb
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.Helpers.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.Mvc.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.Razor.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.WebPages.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\Newtonsoft.Json.xml
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.Helpers.xml
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.Mvc.xml
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.Razor.xml
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.WebPages.xml
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\obj\Debug\RoachFrontend.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\obj\Debug\RoachFrontend.dll
+C:\Users\Алексей\Desktop\МриВода\task4\src\RoachFrontend\obj\Debug\RoachFrontend.pdb
+F:\#13 task4+имена\src\RoachFrontend\bin\RoachFrontend.dll.config
+F:\#13 task4+имена\src\RoachFrontend\bin\RoachFrontend.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\RoachFrontend.pdb
+F:\#13 task4+имена\src\RoachFrontend\bin\Microsoft.Web.Infrastructure.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\Newtonsoft.Json.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.Helpers.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.Mvc.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.Razor.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.WebPages.Deployment.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.WebPages.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.WebPages.Razor.dll
+F:\#13 task4+имена\src\RoachFrontend\bin\Newtonsoft.Json.xml
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.Helpers.xml
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.Mvc.xml
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.Razor.xml
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.WebPages.xml
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.WebPages.Deployment.xml
+F:\#13 task4+имена\src\RoachFrontend\bin\System.Web.WebPages.Razor.xml
+F:\#13 task4+имена\src\RoachFrontend\obj\Debug\RoachFrontend.csprojResolveAssemblyReference.cache
+F:\#13 task4+имена\src\RoachFrontend\obj\Debug\RoachFrontend.dll
+F:\#13 task4+имена\src\RoachFrontend\obj\Debug\RoachFrontend.pdb
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\obj\Debug\RoachFrontend.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\RoachFrontend.dll.config
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\RoachFrontend.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\RoachFrontend.pdb
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\Newtonsoft.Json.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.Helpers.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.Mvc.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.Razor.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.WebPages.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.WebPages.Razor.dll
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\Newtonsoft.Json.xml
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.Helpers.xml
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.Mvc.xml
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.Razor.xml
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.WebPages.xml
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\bin\System.Web.WebPages.Razor.xml
+C:\Users\julia_000\Desktop\#13 task4+имена++\src\RoachFrontend\obj\Debug\RoachFrontend.pdb
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\RoachFrontend.dll.config
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\RoachFrontend.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\RoachFrontend.pdb
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.Helpers.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.Mvc.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.Razor.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\Newtonsoft.Json.xml
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.Helpers.xml
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.Mvc.xml
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.Razor.xml
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.xml
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.dll
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.pdb
+C:\Users\Алексей\Desktop\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.csprojResolveAssemblyReference.cache
+D:\FinalProject\RoachFrontend\bin\RoachFrontend.dll.config
+D:\FinalProject\RoachFrontend\bin\RoachFrontend.dll
+D:\FinalProject\RoachFrontend\bin\RoachFrontend.pdb
+D:\FinalProject\RoachFrontend\bin\Microsoft.Web.Infrastructure.dll
+D:\FinalProject\RoachFrontend\bin\Newtonsoft.Json.dll
+D:\FinalProject\RoachFrontend\bin\System.Web.Helpers.dll
+D:\FinalProject\RoachFrontend\bin\System.Web.Mvc.dll
+D:\FinalProject\RoachFrontend\bin\System.Web.Razor.dll
+D:\FinalProject\RoachFrontend\bin\System.Web.WebPages.Deployment.dll
+D:\FinalProject\RoachFrontend\bin\System.Web.WebPages.dll
+D:\FinalProject\RoachFrontend\bin\System.Web.WebPages.Razor.dll
+D:\FinalProject\RoachFrontend\bin\Newtonsoft.Json.xml
+D:\FinalProject\RoachFrontend\bin\System.Web.Helpers.xml
+D:\FinalProject\RoachFrontend\bin\System.Web.Mvc.xml
+D:\FinalProject\RoachFrontend\bin\System.Web.Razor.xml
+D:\FinalProject\RoachFrontend\bin\System.Web.WebPages.xml
+D:\FinalProject\RoachFrontend\bin\System.Web.WebPages.Deployment.xml
+D:\FinalProject\RoachFrontend\bin\System.Web.WebPages.Razor.xml
+D:\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.csprojResolveAssemblyReference.cache
+D:\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.dll
+D:\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.pdb
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\RoachFrontend.dll.config
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\RoachFrontend.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\RoachFrontend.pdb
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\Newtonsoft.Json.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.Helpers.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.Mvc.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.Razor.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.Razor.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\Newtonsoft.Json.xml
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.Helpers.xml
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.Mvc.xml
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.Razor.xml
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.xml
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\bin\System.Web.WebPages.Razor.xml
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.dll
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.pdb
+C:\Users\julia_000\Desktop\FinalProject\RoachFrontend\obj\Debug\RoachFrontend.csprojResolveAssemblyReference.cache
